@@ -1,0 +1,34 @@
+tar
+================================================================================
+** Create TAR
+*
+tar cvfz
+
+** Extract TAR
+*
+tar xvfz
+
+gdb
+================================================================================
+** Follow threads (use child), don't (use parent)
+*
+set follow-fork-mode child|parent
+
+** Print char
+*
+x/16c
+
+
+uncategorized
+================================================================================
+** Find a file
+*
+find . -name "filename"
+
+** Timestamp
+*
+date +%s
+
+** Tail syslog
+*
+dmesg | tail
