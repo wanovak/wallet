@@ -1,4 +1,5 @@
 wallet
 ======
 
-Conents
+*Contents*
+- commands.txt
