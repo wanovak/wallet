@@ -13,3 +13,4 @@ tmb                     = también
 phrases
 ================================================================================
 deja verifico eso       = let me check it
+lo hare                 = i will do it
