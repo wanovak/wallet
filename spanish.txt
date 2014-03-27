@@ -6,6 +6,7 @@ apagar                  = to turn off
 prender                 = to turn on
 en ambos casos          = either way
 vientos                 = great (slang)
+tronand                 = crashes
 
 abbrv
 ================================================================================
