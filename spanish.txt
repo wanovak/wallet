@@ -8,6 +8,7 @@ en ambos casos          = either way
 vientos                 = great (slang - old)
 chido                   = cool (slang - new)
 tronand                 = crashes
+según                   = supposed to
 
 abbrv
 ================================================================================
