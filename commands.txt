@@ -32,3 +32,7 @@ date +%s
 ** Tail syslog
 *
 dmesg | tail
+
+** SVN status w/o ?
+*
+svn st | grep -v -e "^?"
