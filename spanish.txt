@@ -19,3 +19,4 @@ phrases
 deja verifico eso       = let me check it
 lo hare                 = i will do it
 A se los da a B         = A gives them to B
+asi es                  = quite so
