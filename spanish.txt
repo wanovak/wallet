@@ -9,6 +9,7 @@ vientos                 = great (slang - old)
 chido                   = cool (slang - new)
 tronand                 = crashes
 según                   = supposed to
+chelas                  = beers
 
 abbrv
 ================================================================================
