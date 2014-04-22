@@ -18,6 +18,12 @@ set follow-fork-mode child|parent
 *
 x/16c
 
+ubuntu-specific
+================================================================================
+** Change version alternatives (ex: java)
+*
+update-alternatives --config java
+
 
 uncategorized
 ================================================================================
