@@ -10,6 +10,7 @@ chido                   = cool (slang - new)
 tronand                 = crashes
 según                   = supposed to
 chelas                  = beers
+pues                    = well (kind-of slang -- incorrect usage (like "like"))
 
 abbrv
 ================================================================================
