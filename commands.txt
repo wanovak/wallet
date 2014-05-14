@@ -8,9 +8,13 @@ tar cvfz
 *
 tar xvfz
 
-** Large/numerous TAR
+** Large/numerous TAR Create
 *
 tar cvf - source |gzip > destination.tar.gz
+
+** Large/numerous TAR Extract
+*
+gzip -d < source.tar.gz|tar xvf -
 
 gdb
 ================================================================================
