@@ -8,6 +8,10 @@ tar cvfz
 *
 tar xvfz
 
+** Large/numerous TAR
+*
+tar cvf - source |gzip > destination.tar.gz
+
 gdb
 ================================================================================
 ** Follow threads (use child), don't (use parent)
