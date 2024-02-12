@@ -54,3 +54,7 @@ svn st | grep -v -e "^?"
 ** Get certain info about process consistently
 *
 top -n 1 | grep rsyslog | awk '{print $5, $6, $8}'
+
+** Mount network drive
+*
+sudo mount -t cifs -o username=username //x.x.x.x/sharename /mount/point
